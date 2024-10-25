@@ -67,7 +67,7 @@ html{
 /*home styling*/
 .home{
     display: flex;
-    background-image: linear-gradient(rgba(0, 1, 3, 0.348),rgba(1, 3, 9, 0.629)),url(img/pol.JPG) ;
+background-image: linear-gradient(rgba(0, 1, 3, 0.348),rgba(1, 3, 9, 0.629)),url(img/web4.jfif) ;
     background-position: top 35% right 80% ;
     background-size: cover;
   
