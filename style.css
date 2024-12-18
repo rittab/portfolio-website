@@ -2089,9 +2089,7 @@ align-items: center;
 }
         
         @media (max-width: 500px){
-.project{
-    height: 75vh;
-}
+
                       .home .home-content .text-2{
                         font-size:50px;
                         
