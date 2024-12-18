@@ -2177,9 +2177,7 @@ align-items: center;
      
     }
         @media (max-width: 480px){
-            .project{
-                height: 60vh;
-            }
+     
             .services{
                 width: 100%;
             }
